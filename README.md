@@ -83,10 +83,6 @@ Contributions, suggestions, and bug reports are welcome. To contribute:
 
 Please keep changes small and focused. If you're unsure about design decisions, open an issue to discuss first.
 
-## License
-
-This project is provided under the MIT License. See LICENSE for details (or add a LICENSE file to this repository).
-
 ## Contact
 
 Created by @Arhan-tech786. For questions or feedback, open an issue or contact me through my GitHub profile: https://github.com/Arhan-tech786
