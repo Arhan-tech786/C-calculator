@@ -68,8 +68,9 @@ A simple example workflow:
 
 1. Build: `gcc -o calculator main.c`
 2. Run: `./calculator`
-3. Input: `5`, `+`, `7`
-4. Output: `12`
+3. Enter number 1: 9
+   Enter operation: s
+   Square Root = 3.00
 
 ## Contributing
 
