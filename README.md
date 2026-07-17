@@ -6,7 +6,19 @@ This repository contains a small C program that performs basic arithmetic operat
 
 ## Features
 
-- Basic arithmetic: +, -, *, /
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Power
+- Square
+- Cube
+- Square Root
+- Cube Root
+- Input validation
+- Division by zero handling
+- Repeat calculations using a loop 
+
 - Clear, easy-to-read code suitable for beginners
 
 ## Prerequisites
